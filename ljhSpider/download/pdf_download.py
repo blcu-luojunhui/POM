@@ -2,19 +2,19 @@ import requests
 import wget
 
 
-def download_img_requests(url, save_path):
+def download_pdf_requests(url, save_path):
     response = requests.get(url)
     if response.status_code == 200:
         with open(save_path, 'wb') as file:
             file.write(response.content)
-        print("图片下载完成！")
+        print("PDF下载完成！")
     else:
-        print("无法下载图片文件。")
+        print("无法下载PDF文件。")
 
 
-def download_img_by_wget(url, save_path):
+def download_pdf_by_wget(url, save_path):
     try:
         wget.download(url, save_path)
-        print("图片下载完成！")
+        print("PDF下载完成！")
     except Exception as e:
-        print("无法下载图片文件。", str(e))
+        print("无法下载PDF文件。", str(e))
