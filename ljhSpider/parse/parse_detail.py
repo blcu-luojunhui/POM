@@ -8,5 +8,3 @@ class ParseNews:
     def parse(self, html):
         result = self.extractor.extract(html)
         return result
-
-

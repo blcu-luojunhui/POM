@@ -1,11 +1,12 @@
 import requests
 import wget
+from ljhSpider.api_functions.header_api import header
 
 
 def download_pdf_requests(url, save_path):
-    response = requests.get(url)
+    response = requests.get(url, headers=header())
     if response.status_code == 200:
-        with open(save_path, 'wb') as file:
+        with open(save_path, "wb") as file:
             file.write(response.content)
         print("PDF下载完成！")
     else:
