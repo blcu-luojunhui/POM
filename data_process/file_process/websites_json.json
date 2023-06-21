@@ -1,0 +1,1826 @@
+[
+    {
+        "website_name": "Interesting Engineering",
+        "website_id": "DT0459",
+        "website_url": "https://interestingengineering.com/",
+        "website_type": "公司官网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Innovation",
+                "module_url": "https://interestingengineering.com/innovation"
+            },
+            {
+                "module": "Science",
+                "module_url": "https://interestingengineering.com/science"
+            }
+        ]
+    },
+    {
+        "website_name": "Scientific American",
+        "website_id": "DT0460",
+        "website_url": "https://www.scientificamerican.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology",
+                "module_url": "https://www.scientificamerican.com/technology/"
+            }
+        ]
+    },
+    {
+        "website_name": "Wonderful Engineering",
+        "website_id": "DT0461",
+        "website_url": "https://wonderfulengineering.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology",
+                "module_url": "https://wonderfulengineering.com/category/technology/"
+            },
+            {
+                "module": "Robotics",
+                "module_url": "https://wonderfulengineering.com/category/robotics/"
+            }
+        ]
+    },
+    {
+        "website_name": "APS Physics",
+        "website_id": "DT0462",
+        "website_url": "https://physics.aps.org/",
+        "website_type": "学会官网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Browse-Materials Science",
+                "module_url": "https://physics.aps.org/browse/?page=1&per_page=10&sort=recent&subject_area=materials"
+            },
+            {
+                "module": "Publications-APSNews",
+                "module_url": "https://www.aps.org/publications/apsnews/research.cfm"
+            }
+        ]
+    },
+    {
+        "website_name": "Physics World",
+        "website_id": "DT0464",
+        "website_url": "https://physicsworld.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Lastest",
+                "module_url": "https://physicsworld.com/l/research-updates/"
+            }
+        ]
+    },
+    {
+        "website_name": "Smart Energy",
+        "website_id": "DT0465",
+        "website_url": "https://www.smart-energy.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Series-Technology Trending",
+                "module_url": "https://www.smart-energy.com/tag/technology-trending/"
+            }
+        ]
+    },
+    {
+        "website_name": "高分子网",
+        "website_id": "DT0466",
+        "website_url": "https://www.gaofenzi.org/",
+        "website_type": "技术新闻网",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "首页",
+                "module_url": "https://www.gaofenzi.org/page/2"
+            }
+        ]
+    },
+    {
+        "website_name": "上海情报服务平台",
+        "website_id": "DT0468",
+        "website_url": "https://www.istis.sh.cn/",
+        "website_type": "机构信息服务平台",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技前沿与新兴产业",
+                "module_url": "https://www.istis.sh.cn/cms/news/catalog/41"
+            }
+        ]
+    },
+    {
+        "website_name": "Emerging Technology News ",
+        "website_id": "DT0469",
+        "website_url": "https://etn.news/",
+        "website_type": "科技新闻网",
+        "country": "印度",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Emerging Technology News",
+                "module_url": "https://etn.news/emerging-technology"
+            },
+            {
+                "module": "Energy Storage",
+                "module_url": "https://etn.news/energy-storage"
+            },
+            {
+                "module": "E-Mobility",
+                "module_url": "https://etn.news/e-mobility-blogs"
+            },
+            {
+                "module": "Renewables",
+                "module_url": "https://etn.news/renewables"
+            },
+            {
+                "module": "Hydrogen",
+                "module_url": "https://etn.news/hydrogen"
+            },
+            {
+                "module": "Buzz",
+                "module_url": "https://etn.news/buzz"
+            }
+        ]
+    },
+    {
+        "website_name": "国际新能源网",
+        "website_id": "DT0471",
+        "website_url": "https://newenergy.in-en.com/",
+        "website_type": "科技新闻网",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "咨询中心",
+                "module_url": "https://newenergy.in-en.com/news/"
+            },
+            {
+                "module": "能源技术",
+                "module_url": "https://www.in-en.com/article/tech/"
+            }
+        ]
+    },
+    {
+        "website_name": " Advanced Science News",
+        "website_id": "DT0472",
+        "website_url": "https://www.advancedsciencenews.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology ",
+                "module_url": "https://www.advancedsciencenews.com/category/technology/"
+            }
+        ]
+    },
+    {
+        "website_name": "字节点击",
+        "website_id": "DT0473",
+        "website_url": "https://byteclicks.com/",
+        "website_type": "科技新闻网",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "最前沿",
+                "module_url": "https://byteclicks.com/frontier"
+            }
+        ]
+    },
+    {
+        "website_name": "World Energy",
+        "website_id": "DT0474",
+        "website_url": "https://www.world-energy.org/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Future Energy",
+                "module_url": "https://www.world-energy.org/channel/19.html"
+            },
+            {
+                "module": "Solar",
+                "module_url": "https://www.world-energy.org/channel/15.html"
+            },
+            {
+                "module": "Wind Power ",
+                "module_url": "https://www.world-energy.org/channel/16.html"
+            },
+            {
+                "module": "Hydropower",
+                "module_url": "https://www.world-energy.org/channel/13.html"
+            },
+            {
+                "module": "主页",
+                "module_url": "https://www.world-energy.org/"
+            }
+        ]
+    },
+    {
+        "website_name": "BCC Research",
+        "website_id": "DT0009",
+        "website_url": "https://www.bccresearch.com/",
+        "website_type": "新市场",
+        "country": "美国",
+        "language": "英语",
+        "module_info": [
+            {
+                "module": "Recently Published Reports",
+                "module_url": "https://blog.bccresearch.com/"
+            },
+            {
+                "module": "Blogs from BCC Research",
+                "module_url": "https://blog.bccresearch.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "Slashdot",
+        "website_id": "DT0005",
+        "website_url": "https://technology.slashdot.org/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology",
+                "module_url": "https://technology.slashdot.org/"
+            },
+            {
+                "module": "Science",
+                "module_url": "https://science.slashdot.org/"
+            }
+        ]
+    },
+    {
+        "website_name": "Forrester",
+        "website_id": "DT0022",
+        "website_url": "https://www.forrester.com/predictions/",
+        "website_type": "未来预测网站",
+        "country": "美国",
+        "language": "英语",
+        "module_info": [
+            {
+                "module": "Blogs & Podcasts",
+                "module_url": "https://www.forrester.com/blogs/"
+            }
+        ]
+    },
+    {
+        "website_name": "ifanr",
+        "website_id": "DT0032",
+        "website_url": "https://www.ifanr.com/",
+        "website_type": "新产品测评/使用网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技",
+                "module_url": "https://www.myzaker.com/channel/13"
+            }
+        ]
+    },
+    {
+        "website_name": "techspo",
+        "website_id": "DT0039",
+        "website_url": "https://techspo.co/",
+        "website_type": "科技展/博览会/创业展/挑战赛",
+        "country": "美国",
+        "language": "英语",
+        "module_info": [
+            {
+                "module": "Media-blog-technology blog",
+                "module_url": "https://techspo.co/blog/"
+            }
+        ]
+    },
+    {
+        "website_name": "Science X",
+        "website_id": "DT0062",
+        "website_url": "https://sciencex.com/",
+        "website_type": "综合网站",
+        "country": "英国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Read News",
+                "module_url": "https://sciencex.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国经济新闻网",
+        "website_id": "DT0078",
+        "website_url": "http://www.cet.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "通信",
+                "module_url": "https://www.cet.com.cn/itpd/tx/index.shtml"
+            }
+        ]
+    },
+    {
+        "website_name": "中科院北京纳米能源与系统研究所",
+        "website_id": "DT0085",
+        "website_url": "http://www.binn.cas.cn/",
+        "website_type": "研究机构",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科研动态",
+                "module_url": "http://www.binn.cas.cn/xwzx/kydt/"
+            }
+        ]
+    },
+    {
+        "website_name": "EurAsian Times网站",
+        "website_id": "DT0088",
+        "website_url": "https://eurasiantimes.com",
+        "website_type": "新闻门户网站",
+        "country": "瑞士",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "word",
+                "module_url": "https://eurasiantimes.com/category/world/"
+            },
+            {
+                "module": "Americas",
+                "module_url": "https://eurasiantimes.com/category/americas/"
+            },
+            {
+                "module": "Asia Pacific",
+                "module_url": "https://eurasiantimes.com/category/asia-pacific/"
+            },
+            {
+                "module": "Eurasian Region",
+                "module_url": "https://eurasiantimes.com/category/eurasian-region/"
+            },
+            {
+                "module": "Europe",
+                "module_url": "https://eurasiantimes.com/category/europe/"
+            },
+            {
+                "module": "Middle East",
+                "module_url": "https://eurasiantimes.com/category/middle-east/"
+            },
+            {
+                "module": "South Asia",
+                "module_url": "https://eurasiantimes.com/category/south-asia/"
+            },
+            {
+                "module": "Infotainment",
+                "module_url": "https://eurasiantimes.com/category/infotainment/"
+            }
+        ]
+    },
+    {
+        "website_name": "Military News网站",
+        "website_id": "DT0093",
+        "website_url": "https://www.military.com",
+        "website_type": " 军事新闻网站",
+        "country": "",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News-News Home",
+                "module_url": "https://www.military.com/daily-news"
+            }
+        ]
+    },
+    {
+        "website_name": "ainonline网",
+        "website_id": "DT0131",
+        "website_url": "http://www.ainonline.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "BUSINESS AVIATION",
+                "module_url": "https://www.ainonline.com/aviation-news/business-aviation"
+            },
+            {
+                "module": "AIR TRANSPORT",
+                "module_url": "https://www.ainonline.com/aviation-news/air-transport"
+            },
+            {
+                "module": "DEFENSE",
+                "module_url": "https://www.ainonline.com/aviation-news/defense"
+            }
+        ]
+    },
+    {
+        "website_name": "Automation.com",
+        "website_id": "DT0138",
+        "website_url": "https://www.automation.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Latest Automation News & Articles",
+                "module_url": "https://www.automation.com/en-us/automation-news"
+            },
+            {
+                "module": "Latest New Products",
+                "module_url": "https://www.automation.com/en-us/automation-products"
+            }
+        ]
+    },
+    {
+        "website_name": "bioRxiv",
+        "website_id": "DT0145",
+        "website_url": "https://www.biorxiv.org/",
+        "website_type": "产业联盟/行业协会",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "content",
+                "module_url": "https://www.biorxiv.org/content/early/recent"
+            }
+        ]
+    },
+    {
+        "website_name": "Defense News",
+        "website_id": "DT0158",
+        "website_url": "https://www.defensenews.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Air Warfare",
+                "module_url": "https://www.defensenews.com/air/"
+            },
+            {
+                "module": "Land",
+                "module_url": "https://www.defensenews.com/land/"
+            },
+            {
+                "module": "Naval",
+                "module_url": "https://www.defensenews.com/naval/"
+            },
+            {
+                "module": "Space",
+                "module_url": "https://www.defensenews.com/space/"
+            },
+            {
+                "module": "Cyber",
+                "module_url": "https://www.c4isrnet.com/cyber/?source=dfn-nav"
+            },
+            {
+                "module": "Pentagon",
+                "module_url": "https://www.defensenews.com/pentagon/"
+            },
+            {
+                "module": "congress",
+                "module_url": "https://www.defensenews.com/congress/"
+            },
+            {
+                "module": "global",
+                "module_url": "https://www.defensenews.com/global/"
+            },
+            {
+                "module": "Thought Leadership",
+                "module_url": "https://www.defensenews.com/thought-leadership/"
+            }
+        ]
+    },
+    {
+        "website_name": "eWeek",
+        "website_id": "DT0166",
+        "website_url": "http://www.eweek.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Latest News",
+                "module_url": "https://www.eweek.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "e-works数字化企业网",
+        "website_id": "DT0167",
+        "website_url": "https://www.e-works.net.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "新闻中心",
+                "module_url": "https://news.e-works.net.cn/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国经济网",
+        "website_id": "DT0168",
+        "website_url": "http://www.ce.cn/",
+        "website_type": "综合科技新闻网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技频道",
+                "module_url": "http://tech.ce.cn/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "e车网",
+        "website_id": "DT0169",
+        "website_url": "http://www.ecrrc.com/exhibition/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "轨道交通展会新闻网",
+                "module_url": "http://www.ecrrc.com/exhibition/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "Food Business News网",
+        "website_id": "DT0171",
+        "website_url": "https://www.foodbusinessnews.net/",
+        "website_type": "期刊杂志",
+        "country": "",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Clean Label",
+                "module_url": "https://www.foodbusinessnews.net/topics/138-clean-label"
+            }
+        ]
+    },
+    {
+        "website_name": "Harvard",
+        "website_id": "DT0181",
+        "website_url": "https://news.harvard.edu/gazette/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Health & Medicine",
+                "module_url": "https://news.harvard.edu/gazette/section/health-medicine/"
+            },
+            {
+                "module": "Science & Technology",
+                "module_url": "https://news.harvard.edu/gazette/section/science-technology/"
+            }
+        ]
+    },
+    {
+        "website_name": "IBTimes",
+        "website_id": "DT0182",
+        "website_url": "http://www.ibtimes.co.uk/lithium-worlds-first-electric-vtol-jet-completes-successful-test-flights-1617894",
+        "website_type": "门户网站",
+        "country": "英国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Science",
+                "module_url": "https://www.ibtimes.co.uk/science"
+            },
+            {
+                "module": "TECHNOLOGY",
+                "module_url": "https://www.ibtimes.co.uk/technology"
+            }
+        ]
+    },
+    {
+        "website_name": "MIT.nano（麻省纳米理工学院）",
+        "website_id": "DT0196",
+        "website_url": "https://mitnano.mit.edu/",
+        "website_type": "研发高校/实验室",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "news & updates",
+                "module_url": "https://mitnano.mit.edu/news"
+            }
+        ]
+    },
+    {
+        "website_name": "PVTECH",
+        "website_id": "DT0218",
+        "website_url": "http://www.pv-tech.cn/news/worlds-largest-solar-pv-plant-completed-by-adani-in-india",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "技术纵横",
+                "module_url": "https://www.pv-tech.cn/news/list/category/technology"
+            },
+            {
+                "module": "光伏材料",
+                "module_url": "https://www.pv-tech.cn/news/list/category/materials"
+            },
+            {
+                "module": "电池技术",
+                "module_url": "https://www.pv-tech.cn/news/list/category/cell-processing"
+            },
+            {
+                "module": "薄膜技术",
+                "module_url": "https://www.pv-tech.cn/news/list/category/thin-film"
+            },
+            {
+                "module": "光伏组件",
+                "module_url": "https://www.pv-tech.cn/news/list/category/pv-modules"
+            },
+            {
+                "module": "光伏发电",
+                "module_url": "https://www.pv-tech.cn/news/list/category/power-generation"
+            },
+            {
+                "module": "光伏建筑一体化",
+                "module_url": "https://www.pv-tech.cn/news/list/category/bipv"
+            }
+        ]
+    },
+    {
+        "website_name": "SAE international / metalpowder",
+        "website_id": "DT0222",
+        "website_url": "http://articles.sae.org/15373/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "news",
+                "module_url": "https://www.sae.org/news"
+            }
+        ]
+    },
+    {
+        "website_name": "TechCrunch",
+        "website_id": "DT0231",
+        "website_url": "https://techcrunch.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "The Latest",
+                "module_url": "https://techcrunch.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "THE HILL",
+        "website_id": "DT0235",
+        "website_url": "https://thehill.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology",
+                "module_url": "https://thehill.com/policy/technology"
+            }
+        ]
+    },
+    {
+        "website_name": "中国网科学中国",
+        "website_id": "DT0238",
+        "website_url": "http://science.china.com.cn/",
+        "website_type": "综合科技新闻网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "今日要闻",
+                "module_url": "http://science.china.com.cn/node_544674.htm"
+            }
+        ]
+    },
+    {
+        "website_name": "United States Department of Energy",
+        "website_id": "DT0240",
+        "website_url": "https://www.energy.gov/",
+        "website_type": "政府组织",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Energy News",
+                "module_url": "https://www.energy.gov/listings/energy-news"
+            }
+        ]
+    },
+    {
+        "website_name": "UploadVR VR实验站",
+        "website_id": "DT0242",
+        "website_url": "https://uploadvr.com/",
+        "website_type": "综合科技新闻网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "头条新闻",
+                "module_url": "https://www.uploadvr.com/latest/"
+            }
+        ]
+    },
+    {
+        "website_name": "北极星储能网",
+        "website_id": "DT0252",
+        "website_url": "http://chuneng.bjx.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "要闻",
+                "module_url": "https://chuneng.bjx.com.cn/NewsList/"
+            },
+            {
+                "module": "政策",
+                "module_url": "https://chuneng.bjx.com.cn/NewsList?id=100"
+            },
+            {
+                "module": "市场",
+                "module_url": "https://chuneng.bjx.com.cn/NewsList?id=89"
+            },
+            {
+                "module": "招标",
+                "module_url": "https://chuneng.bjx.com.cn/NewsList?id=79"
+            },
+            {
+                "module": "独家",
+                "module_url": "https://chuneng.bjx.com.cn/djsj/"
+            },
+            {
+                "module": "项目",
+                "module_url": "https://chuneng.bjx.com.cn/NewsList?id=103"
+            }
+        ]
+    },
+    {
+        "website_name": "北极星电力网",
+        "website_id": "DT0253",
+        "website_url": "http://news.bjx.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "要闻",
+                "module_url": "http://news.bjx.com.cn/list"
+            },
+            {
+                "module": "项目",
+                "module_url": "http://news.bjx.com.cn/list?catid=103"
+            },
+            {
+                "module": "技术",
+                "module_url": "http://news.bjx.com.cn/list?catid=88"
+            },
+            {
+                "module": "市场",
+                "module_url": "http://news.bjx.com.cn/list?catid=89"
+            },
+            {
+                "module": "国际",
+                "module_url": "http://news.bjx.com.cn/list?catid=82"
+            }
+        ]
+    },
+    {
+        "website_name": "北极星风力发电网",
+        "website_id": "DT0254",
+        "website_url": "https://fd.bjx.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "要闻",
+                "module_url": "https://fd.bjx.com.cn/NewsList"
+            },
+            {
+                "module": "政策",
+                "module_url": "https://fd.bjx.com.cn/NewsList?id=100"
+            },
+            {
+                "module": "市场",
+                "module_url": "https://fd.bjx.com.cn/NewsList?id=89"
+            },
+            {
+                "module": "技术",
+                "module_url": "https://fd.bjx.com.cn/NewsList?id=88"
+            }
+        ]
+    },
+    {
+        "website_name": "北极星光伏网",
+        "website_id": "DT0255",
+        "website_url": "http://guangfu.bjx.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "光伏要闻",
+                "module_url": "https://guangfu.bjx.com.cn/NewsList.aspx"
+            },
+            {
+                "module": "市场",
+                "module_url": "https://guangfu.bjx.com.cn/NewsList.aspx?typeid=89"
+            },
+            {
+                "module": "政策",
+                "module_url": "https://guangfu.bjx.com.cn/NewsList.aspx?typeid=100"
+            },
+            {
+                "module": "技术跟踪",
+                "module_url": "https://guangfu.bjx.com.cn/NewsList.aspx?typeid=88"
+            }
+        ]
+    },
+    {
+        "website_name": "北极星输配电网",
+        "website_id": "DT0256",
+        "website_url": "http://shupeidian.bjx.com.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "要闻",
+                "module_url": "https://shupeidian.bjx.com.cn/NewsList"
+            },
+            {
+                "module": "市场",
+                "module_url": "https://shupeidian.bjx.com.cn/NewsList?id=89"
+            },
+            {
+                "module": "政策",
+                "module_url": "https://shupeidian.bjx.com.cn/NewsList?id=100"
+            },
+            {
+                "module": "项目",
+                "module_url": "https://shupeidian.bjx.com.cn/NewsList?id=103"
+            },
+            {
+                "module": "技术",
+                "module_url": "https://shupeidian.bjx.com.cn/NewsList?id=88"
+            }
+        ]
+    },
+    {
+        "website_name": "材料牛",
+        "website_id": "DT0260",
+        "website_url": "http://www.cailiaoniu.com/63517.html",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技-汇总",
+                "module_url": "http://www.cailiaoniu.com/keji/huizong"
+            },
+            {
+                "module": "业界",
+                "module_url": "http://www.cailiaoniu.com/yejie"
+            }
+        ]
+    },
+    {
+        "website_name": "财新网",
+        "website_id": "DT0263",
+        "website_url": "http://science.caixin.com",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技",
+                "module_url": "http://www.caixin.com/tech/"
+            }
+        ]
+    },
+    {
+        "website_name": "观察者网",
+        "website_id": "DT0266",
+        "website_url": "http://www.guancha.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技",
+                "module_url": "https://www.guancha.cn/gongye%C2%B7keji?s=dhgongye%C2%B7keji"
+            }
+        ]
+    },
+    {
+        "website_name": "丁香通",
+        "website_id": "DT0272",
+        "website_url": "https://www.biomart.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "前沿快讯",
+                "module_url": "https://www.biomart.cn/news/103/index.htm"
+            },
+            {
+                "module": "业内资讯—生物技术",
+                "module_url": "https://www.biomart.cn/news/10/index.htm"
+            }
+        ]
+    },
+    {
+        "website_name": "电子发烧友网",
+        "website_id": "DT0273",
+        "website_url": "http://www.elecfans.com/application/Communication/450761.html",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "行业新闻 人工智能技术 新一代信息通信技术",
+                "module_url": "http://www.elecfans.com/news/hangye/"
+            }
+        ]
+    },
+    {
+        "website_name": "控制工程网",
+        "website_id": "DT0304",
+        "website_url": "http://www.cechina.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "新闻中心",
+                "module_url": "http://www.cechina.cn/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "快科技",
+        "website_id": "DT0305",
+        "website_url": "https://www.mydrivers.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "科技快讯",
+                "module_url": "https://news.mydrivers.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "雷锋网",
+        "website_id": "DT0306",
+        "website_url": "https://www.leiphone.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "人工智能",
+                "module_url": "https://www.leiphone.com/category/ai"
+            },
+            {
+                "module": "人工智能开发者",
+                "module_url": "https://www.leiphone.com/category/yanxishe"
+            },
+            {
+                "module": "智能驾驶",
+                "module_url": "https://www.leiphone.com/category/transportation"
+            }
+        ]
+    },
+    {
+        "website_name": "中国科技网",
+        "website_id": "DT0308",
+        "website_url": "http://stdaily.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "总编辑圈点",
+                "module_url": "http://www.stdaily.com/guoji/zongbian/zbjqd.shtml"
+            },
+            {
+                "module": "今日视点",
+                "module_url": "http://www.stdaily.com/guoji/shidian/jrsd.shtml"
+            },
+            {
+                "module": "国际科技新闻",
+                "module_url": "http://www.stdaily.com/guoji/xinwen/kjxw.shtml"
+            },
+            {
+                "module": "创新连线",
+                "module_url": "http://www.stdaily.com/guoji/lianxian/cxlxels.shtml"
+            }
+        ]
+    },
+    {
+        "website_name": "Critical Comms",
+        "website_id": "DT0310",
+        "website_url": "https://www.criticalcomms.com.au/",
+        "website_type": "综合科技新闻网站",
+        "country": "澳大利亚",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "The latest industry news",
+                "module_url": "https://www.criticalcomms.com.au/news"
+            },
+            {
+                "module": "Feature and technical articles",
+                "module_url": "https://www.criticalcomms.com.au/articles"
+            },
+            {
+                "module": "Case studies",
+                "module_url": "https://www.criticalcomms.com.au/case-studies"
+            },
+            {
+                "module": "New products",
+                "module_url": "https://www.criticalcomms.com.au/products"
+            },
+            {
+                "module": "Industry directory",
+                "module_url": "https://www.criticalcomms.com.au/directories"
+            },
+            {
+                "module": "Event information",
+                "module_url": "https://www.criticalcomms.com.au/events"
+            }
+        ]
+    },
+    {
+        "website_name": "美国spacenews网",
+        "website_id": "DT0311",
+        "website_url": "https://spacenews.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://spacenews.com/segment/news/"
+            },
+            {
+                "module": "Policy & Politics",
+                "module_url": "https://spacenews.com/section/policy-politics/"
+            }
+        ]
+    },
+    {
+        "website_name": "美国能源和商业委员会",
+        "website_id": "DT0330",
+        "website_url": "https://energycommerce.house.gov/",
+        "website_type": "政府组织",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "House Committee on Energy and Commerce",
+                "module_url": "https://energycommerce.house.gov/news"
+            }
+        ]
+    },
+    {
+        "website_name": "CB Insights",
+        "website_id": "DT0342",
+        "website_url": "https://www.cbinsights.com/",
+        "website_type": "科技统计数据",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Industries",
+                "module_url": "https://www.cbinsights.com/research/industries/"
+            },
+            {
+                "module": "Emerging Technologies",
+                "module_url": "https://www.cbinsights.com/research/technologies-topics/"
+            },
+            {
+                "module": "Reports",
+                "module_url": "https://www.cbinsights.com/research/report/"
+            }
+        ]
+    },
+    {
+        "website_name": "世纪新能源网",
+        "website_id": "DT0353",
+        "website_url": "http://www.ne21.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "光伏",
+                "module_url": "https://www.ne21.com/news/list-725.html"
+            },
+            {
+                "module": "氢能",
+                "module_url": "https://www.ne21.com/special/show-125.html"
+            },
+            {
+                "module": "风电",
+                "module_url": "https://www.ne21.com/news/list-1683.html"
+            },
+            {
+                "module": "储能",
+                "module_url": "https://www.ne21.com/news/list-1684.html"
+            }
+        ]
+    },
+    {
+        "website_name": "世界先进制造技术论坛",
+        "website_id": "DT0354",
+        "website_url": "https://www.amtbbs.org/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "人工智能",
+                "module_url": "https://www.amtbbs.org/portal.php?mod=list&catid=122"
+            },
+            {
+                "module": "微信文章",
+                "module_url": "https://www.amtbbs.org/plugin.php?id=wq_wechatcollecting"
+            }
+        ]
+    },
+    {
+        "website_name": "通信世界网",
+        "website_id": "DT0356",
+        "website_url": "http://www.cww.net.cn/index.jsp",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "产业动态",
+                "module_url": "http://www.cww.net.cn/subjects/nav/rollList/4EC847C7C76A470A97492FDBBC15AC4D"
+            },
+            {
+                "module": "技术",
+                "module_url": "http://www.cww.net.cn/subjects/cha/channel/40E70A79BC864B60895472F8A85572D9"
+            }
+        ]
+    },
+    {
+        "website_name": "亚洲工业网",
+        "website_id": "DT0367",
+        "website_url": "https://www.oemao.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "行业资讯",
+                "module_url": "https://www.oemao.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "智能制造网",
+        "website_id": "DT0382",
+        "website_url": "https://www.gkzhan.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "技术动态",
+                "module_url": "https://www.gkzhan.com/news/t13/list.html"
+            },
+            {
+                "module": "行业动态",
+                "module_url": "https://www.gkzhan.com/news/t15/list.html"
+            },
+            {
+                "module": "企业动态",
+                "module_url": "https://www.gkzhan.com/news/t1358/list.html"
+            }
+        ]
+    },
+    {
+        "website_name": "中电网",
+        "website_id": "DT0385",
+        "website_url": "http://www.eccn.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "芯闻",
+                "module_url": "http://news.eccn.com/"
+            },
+            {
+                "module": "芯品",
+                "module_url": "https://products.eccn.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国IDC圈",
+        "website_id": "DT0387",
+        "website_url": "http://www.idcquan.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "新闻咨询",
+                "module_url": "http://news.idcquan.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国半导体协会",
+        "website_id": "DT0388",
+        "website_url": "http://www.csia.net.cn/Index.asp",
+        "website_type": "产业联盟/行业协会",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "热点新闻",
+                "module_url": "https://web.csia.net.cn/rdxw"
+            },
+            {
+                "module": "产品与技术",
+                "module_url": "https://web.csia.net.cn/cpyjs"
+            }
+        ]
+    },
+    {
+        "website_name": "中国传动网",
+        "website_id": "DT0390",
+        "website_url": "https://www.chuandong.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "新闻频道",
+                "module_url": "https://www.chuandong.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国电动汽车网",
+        "website_id": "DT0392",
+        "website_url": "https://www.cnev.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "技术",
+                "module_url": "https://news.cnev.cn/list_huodong.html"
+            }
+        ]
+    },
+    {
+        "website_name": "中国电缆网",
+        "website_id": "DT0393",
+        "website_url": "http://www.cableabc.com/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "国际要闻",
+                "module_url": "http://news.cableabc.com/gc.html"
+            },
+            {
+                "module": "新能源汽车",
+                "module_url": "http://news.cableabc.com/xny_0.html"
+            },
+            {
+                "module": "企业",
+                "module_url": "http://news.cableabc.com/enterprise.html"
+            },
+            {
+                "module": "产品技术",
+                "module_url": "http://news.cableabc.com/product.html"
+            }
+        ]
+    },
+    {
+        "website_name": "中国工信产业网",
+        "website_id": "DT0396",
+        "website_url": "http://www.cnii.com.cn/",
+        "website_type": "产业联盟/行业协会",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "产业技术",
+                "module_url": "https://www.cnii.com.cn/cyjs/"
+            },
+            {
+                "module": "信息通信",
+                "module_url": "https://www.cnii.com.cn/tx/index.html"
+            },
+            {
+                "module": "科技创新",
+                "module_url": "https://www.cnii.com.cn/kjchx/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国海洋信息网",
+        "website_id": "DT0402",
+        "website_url": "http://www.nmdis.org.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "数据资料",
+                "module_url": "http://mds.nmdis.org.cn/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国航空新闻网",
+        "website_id": "DT0403",
+        "website_url": "http://www.cannews.com.cn",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "航空",
+                "module_url": "http://www.cannews.com.cn/aviation/"
+            },
+            {
+                "module": "防务",
+                "module_url": "http://www.cannews.com.cn/mil/"
+            }
+        ]
+    },
+    {
+        "website_name": "中国核网",
+        "website_id": "DT0405",
+        "website_url": "http://www.nuclear.net.cn/",
+        "website_type": "门户网站",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "核资讯",
+                "module_url": "http://www.nuclear.net.cn/portal.php?mod=list&catid=94"
+            }
+        ]
+    },
+    {
+        "website_name": "MOBILE WORLD LIVE",
+        "website_id": "DT0409",
+        "website_url": "https://www.mobileworldlive.com/",
+        "website_type": "门户网站",
+        "country": "",
+        "language": "英/中/日等",
+        "module_info": [
+            {
+                "module": "LATEST STORIES",
+                "module_url": "https://www.mobileworldlive.com/latest-stories/"
+            },
+            {
+                "module": "Reports",
+                "module_url": "https://www.mobileworldlive.com/reports/"
+            }
+        ]
+    },
+    {
+        "website_name": "Sputnik",
+        "website_id": "DT0415",
+        "website_url": "https://sputniknews.com/",
+        "website_type": "门户网站",
+        "country": "俄罗斯",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Science & Tech",
+                "module_url": "https://sputniknews.com/science/"
+            },
+            {
+                "module": "Military",
+                "module_url": "https://sputnikglobe.com/keyword_Military/"
+            }
+        ]
+    },
+    {
+        "website_name": "Rail Technology",
+        "website_id": "DT0476",
+        "website_url": "https://www.railway-technology.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.railway-technology.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "Railway Age",
+        "website_id": "DT0477",
+        "website_url": "https://www.railwayage.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.railwayage.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "Power Grid",
+        "website_id": "DT0478",
+        "website_url": "https://www.power-grid.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Lasest News",
+                "module_url": "https://www.power-grid.com/news/"
+            }
+        ]
+    },
+    {
+        "website_name": "Power Mag",
+        "website_id": "DT0479",
+        "website_url": "https://www.powermag.com/",
+        "website_type": "科技新闻网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "What's new",
+                "module_url": "https://www.powermag.com/"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO Life Sciences",
+        "website_id": "DT0480",
+        "website_url": "https://www.azolifesciences.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azolifesciences.com/news"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO NANO",
+        "website_id": "DT0481",
+        "website_url": "https://www.azonano.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azonano.com/nanotechnology-news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO ROBOTICS",
+        "website_id": "DT0482",
+        "website_url": "https://www.azorobotics.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azorobotics.com/news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO CLEANTECH",
+        "website_id": "DT0483",
+        "website_url": "https://www.azocleantech.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azocleantech.com/news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO OPTICS",
+        "website_id": "DT0484",
+        "website_url": "https://www.azooptics.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azooptics.com/optics-news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO BUILD",
+        "website_id": "DT0485",
+        "website_url": "https://www.azobuild.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azobuild.com/building-news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO MINING",
+        "website_id": "DT0486",
+        "website_url": "https://www.azomining.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azomining.com/news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO SENSORS",
+        "website_id": "DT0487",
+        "website_url": "https://www.azosensors.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azosensors.com/news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "AZO QUANTUM",
+        "website_id": "DT0488",
+        "website_url": "https://www.azoquantum.com/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News",
+                "module_url": "https://www.azoquantum.com/news-index.aspx"
+            }
+        ]
+    },
+    {
+        "website_name": "News Medical",
+        "website_id": "DT0489",
+        "website_url": "https://www.news-medical.net/",
+        "website_type": "期刊杂志",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Medical Home",
+                "module_url": "https://www.news-medical.net/medical/news"
+            },
+            {
+                "module": "Life Sciences Home",
+                "module_url": "https://www.news-medical.net/life-sciences/news"
+            }
+        ]
+    },
+    {
+        "website_name": "National Energy Technology Laboratory",
+        "website_id": "DT0492",
+        "website_url": "https://netl.doe.gov/",
+        "website_type": "实验室官网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "News and Events-New Stories",
+                "module_url": "https://netl.doe.gov/news-room-news-stories?tid=All&year=1"
+            }
+        ]
+    },
+    {
+        "website_name": "Global Spec",
+        "website_id": "DT0502",
+        "website_url": "https://www.globalspec.com/",
+        "website_type": "公司官网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Engineering News",
+                "module_url": "https://insights.globalspec.com/archive"
+            }
+        ]
+    },
+    {
+        "website_name": "EurekAlert",
+        "website_id": "DT0503",
+        "website_url": "https://www.eurekalert.org/",
+        "website_type": "组织官网",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "NEWS RELEASES",
+                "module_url": "https://www.eurekalert.org/news-releases/browse"
+            }
+        ]
+    },
+    {
+        "website_name": "X-MOL学术平台",
+        "website_id": "DT0507",
+        "website_url": "https://www.x-mol.com/",
+        "website_type": "学术平台网",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "行业咨询",
+                "module_url": "https://www.x-mol.com/news/index"
+            }
+        ]
+    },
+    {
+        "website_name": "爱集微",
+        "website_id": "DT0508",
+        "website_url": "https://www.laoyaoba.com/",
+        "website_type": "咨询机构网",
+        "country": "中国",
+        "language": "中文",
+        "module_info": [
+            {
+                "module": "NEWS",
+                "module_url": "https://www.laoyaoba.com/list/228"
+            }
+        ]
+    },
+    {
+        "website_name": "AllAboutCircuits",
+        "website_id": "DT0527",
+        "website_url": "https://www.allaboutcircuits.com/",
+        "website_type": "电气工程师在线社区",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Latest Technical Articles",
+                "module_url": "https://www.allaboutcircuits.com/technical-articles/"
+            },
+            {
+                "module": "Latest News",
+                "module_url": "https://www.allaboutcircuits.com/news/"
+            },
+            {
+                "module": "Latest Industry Articles",
+                "module_url": "https://www.allaboutcircuits.com/industry-articles/"
+            }
+        ]
+    },
+    {
+        "website_name": "AnandTech",
+        "website_id": "DT0528",
+        "website_url": "https://www.anandtech.com/",
+        "website_type": "计算机硬件评论网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "pipeline",
+                "module_url": "https://www.anandtech.com/pipeline"
+            },
+            {
+                "module": "cpus",
+                "module_url": "https://www.anandtech.com/tag/cpus"
+            },
+            {
+                "module": "SoCs",
+                "module_url": "https://www.anandtech.com/tag/socs"
+            },
+            {
+                "module": "GPUs",
+                "module_url": "https://www.anandtech.com/tag/gpus"
+            },
+            {
+                "module": "Storage",
+                "module_url": "https://www.anandtech.com/tag/storage"
+            }
+        ]
+    },
+    {
+        "website_name": "ExtremeTech",
+        "website_id": "DT0540",
+        "website_url": "https://www.extremetech.com/",
+        "website_type": "门户网站",
+        "country": "美国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Aerospace",
+                "module_url": "https://www.extremetech.com/category/aerospace"
+            },
+            {
+                "module": "Cars",
+                "module_url": "https://www.extremetech.com/category/cars"
+            },
+            {
+                "module": "Computing",
+                "module_url": "https://www.extremetech.com/category/computing"
+            },
+            {
+                "module": "Energy",
+                "module_url": "https://www.extremetech.com/category/energy"
+            },
+            {
+                "module": "Science",
+                "module_url": "https://www.extremetech.com/category/science"
+            }
+        ]
+    },
+    {
+        "website_name": "New Scientist",
+        "website_id": "DT0569",
+        "website_url": "https://www.newscientist.com/",
+        "website_type": "技术新闻网",
+        "country": "英国",
+        "language": "英文",
+        "module_info": [
+            {
+                "module": "Technology",
+                "module_url": "https://www.newscientist.com/subject/technology/"
+            },
+            {
+                "module": "Chemistry",
+                "module_url": "https://www.newscientist.com/subject/chemistry/"
+            },
+            {
+                "module": "Space",
+                "module_url": "https://www.newscientist.com/subject/space/"
+            },
+            {
+                "module": "Physics",
+                "module_url": "https://www.newscientist.com/subject/physics/"
+            }
+        ]
+    }
+]

@@ -1,18 +1,21 @@
+import json
+
 import scrapy
+from scrapy_redis.spiders import RedisSpider
+from ljhSpider.auto_parse import ParseNews
 
 
-from ljhSpider.api_functions import header_api, tools_api
-from ljhSpider.parse import parse_detail, url_list_search
-from ljhSpider.get_html_info import by_selenium, by_drissionpage
-
-from ljhSpider.items import LjhspiderItem
-from ljhSpider.pipelines import LjhspiderPipeline
-
-
-class CrawlAnythingSpider(scrapy.Spider):
+class CrawlAnythingSpider(RedisSpider):
     name = "crawl_anything"
-    allowed_domains = ["baidu.com"]
-    start_urls = ["https://baidu.com"]
+
+    def __init__(self, redis_key=None, *a, **kw):
+        super().__init__(*a, **kw)
+        self.redis_key = redis_key
 
     def parse(self, response):
-        pass
+        print(response.url)
+        # print(response.text)
+        page_info = json.dumps(
+            ParseNews().parse(response.text), ensure_ascii=False, indent=4
+        )
+        print(page_info)

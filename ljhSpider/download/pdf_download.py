@@ -1,6 +1,6 @@
 import requests
 import wget
-from ljhSpider.api_functions.header_api import header
+from ljhSpider.api_functions import header
 
 
 def download_pdf_requests(url, save_path):

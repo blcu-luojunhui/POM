@@ -1,6 +1,6 @@
 import undetected_chromedriver as uc
 from undetected_chromedriver.options import ChromeOptions
-from ljhSpider.api_functions.header_api import header
+from ljhSpider.api_functions import header
 import platform
 
 
@@ -20,8 +20,8 @@ class SeleniumOri:
         if plugin_enable:
             self.options.add_argument("--disable-images")
             self.options.add_argument("--disable-plugins")
-            self.options.add_argument("disable-audio")
-            self.options.add_argument("disable-translate")
+            # self.options.add_argument("disable-audio")
+            # self.options.add_argument("disable-translate")
         # if proxy:
         #     print(1)
         if logging_enable:
@@ -36,7 +36,7 @@ class SeleniumOri:
             self.options.add_argument("--disable-gpu")
             self.options.add_argument("--disable-dev-shm-usage")
 
-        self.options.add_argument("user-agent={}".format(header()["User-Agent"]))
+        # self.options.add_argument("user-agent={}".format(header()["User-Agent"]))
         self.driver = uc.Chrome(options=self.options)
         if stealth_enable:
             self.stealth_enable()
@@ -44,7 +44,7 @@ class SeleniumOri:
     def stealth_enable(self):
         with open("stealth.min.js", "r", encoding="utf-8") as file:
             stealth_min_js = file.read()
-        self.browser.execute_cdp_cmd(
+        self.driver.execute_cdp_cmd(
             "Page.addScriptToEvaluateOnNewDocument", {"source": stealth_min_js}
         )
 

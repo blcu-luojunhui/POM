@@ -1,3 +1,4 @@
+import os
 import json
 import chardet
 
@@ -28,3 +29,7 @@ def get_encoding(path):
     with open(path, "rb") as file:
         data = file.read()
     return chardet.detect(data)["encoding"]
+
+
+def run_spider(redis_key):
+    os.system("scrapy crawl crawl_anything -a redis_key={}".format(redis_key))
