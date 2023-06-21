@@ -10,7 +10,7 @@ def chunks(data_list, chunk_size):
     :return: 大列表包小列表[[], [], [], []......]
     """
     for i in range(0, len(data_list), chunk_size):
-        yield data_list[i : i + chunk_size]
+        yield data_list[i: i + chunk_size]
 
 
 def read_json(path):
